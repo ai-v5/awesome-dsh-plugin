@@ -1,0 +1,6 @@
+url: https://github.com/ai-v5/LLMDSHPlugin_token-usage
+name: ai-v5/LLMDSHPlugin_token-usage
+category: usage
+description:
+  en: 'Sidebar token usage with an all-time total, a 365-day calendar heatmap, turn and step counts, average generation speed, and durable history after sessions are archived.'
+  zh: 侧边栏 Token 用量统计：历史总量、365 天日历热力图、轮次/步骤、平均生成速度，并在会话归档后保留历史。
