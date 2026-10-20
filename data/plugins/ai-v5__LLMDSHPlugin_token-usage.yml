@@ -2,5 +2,5 @@ url: https://github.com/ai-v5/LLMDSHPlugin_token-usage
 name: ai-v5/LLMDSHPlugin_token-usage
 category: usage
 description:
-  en: 'Sidebar token usage with an all-time total, a 365-day calendar heatmap, turn and step counts, average generation speed, and durable history after sessions are archived.'
-  zh: 侧边栏 Token 用量统计：历史总量、365 天日历热力图、轮次/步骤、平均生成速度，并在会话归档后保留历史。
+  en: 'Local-only DSH sidebar token dashboard: all-time totals, a 365-day heatmap, input+output and cache read/write details, turn/step counts, average tok/s, and durable history after sessions are archived.'
+  zh: 仅本地统计的 DSH 侧边栏 Token 面板：历史总量、365 天热力图、输入+输出与缓存读写明细、轮次/步骤、平均 tok/s，并在会话归档后保留历史。
